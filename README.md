@@ -17,7 +17,7 @@ var atem = {
   code: [Java, Javascript, HTML, CSS, Dart, Python],
   askMeAbout: ["Java Enterprise Dev", "Anime", "Jesus Christ"],
   tools: [JEE, Quarkus, Hibernate, Node, Express, Postgres, Camunda, Docker 🐳, AWS],
-  architecture: ["microservices", "Test Driven Design", "Progressive web applications", "Single page applications"],
+  architecture: ["microservices", "Test Driven Design", "PWA", "SPA"],
   technologies: {
         backEnd: {
             all: ["JEE", "Quarkus", "MicroProfile", "Hibernate", "Node", "Express", "Dart"],
@@ -29,7 +29,7 @@ var atem = {
         devOps: ["Learning AWS", "Docker🐳", "K8s", "Jenkins"],
         databases: ["PostgreSQL" "MySql", "sqlite", "indexDB", "mongo", "casssandra"],
         testing: ["JUnit", "Mockito"],
-        misc: ["Maven", "Googling", "Semantic Versioning", "FlyWay", "Camunda", "Free Marker"]
+        misc: ["Maven", "Semantic Versioning", "FlyWay", "Camunda", "Free Marker"]
     },
  currentFocus: "Jakarta EE applicaiton development",
  challenge: "Contribute more to MicroProfile GraphQL"
