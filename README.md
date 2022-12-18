@@ -13,9 +13,8 @@ Software Enginner at <a href="https://tech11.com/en/">tech11 GmbH </a><img src="
 
 ```javascript
 var atem = {
-  pronouns: "He" | "Him",
   code: [Java, Javascript, HTML, CSS, Dart, Python],
-  askMeAbout: ["Java Enterprise Dev", "Anime", "Jesus Christ"],
+  askMeAbout: ["Java Enterprise Dev", "Camunda Platform", "Jesus Christ"],
   tools: [JEE, Quarkus, Hibernate, Node, Express, Postgres, Camunda, Docker 🐳, AWS],
   architecture: ["microservices", "Test Driven Design", "PWA", "SPA"],
   technologies: {
@@ -31,7 +30,7 @@ var atem = {
         testing: ["JUnit", "Mockito"],
         misc: ["Maven", "Semantic Versioning", "FlyWay", "Camunda", "Free Marker"]
     },
- currentFocus: "Jakarta EE applicaiton development",
+ currentFocus: "Jakarta EE application development",
  challenge: "Contribute more to MicroProfile GraphQL"
 }
 ```
@@ -52,6 +51,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
